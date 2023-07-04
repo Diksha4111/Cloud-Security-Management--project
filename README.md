@@ -1,2 +1,2 @@
 # csm-project
-A encryption-decryption tool developed using python.
+An encryption-decryption tool developed using python.
